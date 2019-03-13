@@ -1,0 +1,2 @@
+cryptoauthlib==20190125
+cryptography==2.6.1
